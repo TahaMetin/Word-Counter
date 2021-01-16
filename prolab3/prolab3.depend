@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1608997901 source:d:\taha\bil muh\2. sýnýf\veri yapýlarý ve algoritmalar\c kodlari\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
+1608999753 source:d:\taha\bil muh\2. sýnýf\prolab\lab3\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
